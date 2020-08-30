@@ -35,4 +35,5 @@ You may want to configure xfce4-panel to not show the programs you dont use.
  ## I don't reccomend using this unmodifed, experiment with it!
 
 Picom Config from [u/siduck0007](https://www.reddit.com/user/siduck0007)
+
 `arch.png` is sourced from [here](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Antu_distributor-logo-archlinux.svg/1024px-Antu_distributor-logo-archlinux.svg.png)
