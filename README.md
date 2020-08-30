@@ -29,6 +29,8 @@ For the wallpapers, open up `nitrogen` and click 'Preferences' -> 'Add' and type
 
 Finally, if you are not using the provided xinitrc, add `nitrogen --restore` and `xfce4-panel &` and if you installed the picom fork `picom --config /home/<username>/.picom.conf`
 
+Also, to get that cool image in neofetch copy `arch.png` to you're home directory
+
 You may want to configure xfce4-panel to not show the programs you dont use.
  ## I don't reccomend using this unmodifed, experiment with it!
 
