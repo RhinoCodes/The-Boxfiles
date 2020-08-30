@@ -1,16 +1,24 @@
 # The Boxfiles
 The Box Files is my personal collection of openbox dotfiles
 
-## Programs I use
-```openbox (duh)
+## Packages I use
+```
+openbox (duh)
 xfce4-panel
 lxappearance
-Discord
-Thunar
-Nautilus
-Alacritty
-Steam (GAMER)
-Discord
+discord
+thunar
+nautilus
+alacritty
+arc-gtk-theme
+qemu
 ```
-
-This is more of a personal record than a open repo but feel free to use this (:
+### Not From Arch repos (these are from the aur or elsewhere)
+```
+obmenu-generator
+vscodium
+zsh
+oh-my-zsh
+Balena Etcher
+```
+Picom Config from (u/siduck0007)[https://www.reddit.com/user/siduck0007]
