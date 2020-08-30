@@ -22,8 +22,11 @@ picom-ibhagwan-git (aur)
 ```
 ### How to replicate
 Install the neccesary dependencies from the arch (or other distros) repos, clone this repo, and copy the files and folders in `.config` to `~/.config`, `.themes` to `~/.themes`, `.wallpapers` to `~/.wallpapers` etc. 
+
 Then open `lxappearance` and select `Arc-Dark`, then open up `obconf` and select `Arch-Dark`. 
+
 For the wallpapers, open up `nitrogen` and click 'Preferences' -> 'Add' and type `/home/<username>/.wallpapers/` and select one you like. 
+
 Finally, if you are not using the provided xinitrc, add `nitrogen --restore` and `xfce4-panel &` and if you installed the picom fork `picom --config /home/<username>/.picom.conf`
 
 You may want to configure xfce4-panel to not show the programs you dont use.
