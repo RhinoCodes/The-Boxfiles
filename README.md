@@ -4,6 +4,7 @@ The Box Files is my personal collection of openbox dotfiles
 ## Packages I use
 ```
 openbox (duh)
+obconf
 xfce4-panel
 lxappearance
 discord
